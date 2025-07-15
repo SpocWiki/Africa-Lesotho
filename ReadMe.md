@@ -131,10 +131,4 @@ Capital :: [[Maseru]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Lesotho|Lesotho]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~South/Lesotho.internal|Lesotho.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~South/Lesotho.protect|Lesotho.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~South/Lesotho.private|Lesotho.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]] 
+

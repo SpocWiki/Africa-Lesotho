@@ -40,11 +40,18 @@ markerFolder: ./Mokhotlong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Mokhotlong|Mokhotlong]] 
-- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.public|Mokhotlong.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.internal|Mokhotlong.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.protect|Mokhotlong.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.private|Mokhotlong.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.personal|Mokhotlong.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mokhotlong.secret|Mokhotlong.secret]] 
+
+### #is_/same_as :: [Mokhotlong](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.md) 
+
+### #is_/same_as :: [Mokhotlong.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.public.md) 
+
+### #is_/same_as :: [Mokhotlong.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.internal.md) 
+
+### #is_/same_as :: [Mokhotlong.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.protect.md) 
+
+### #is_/same_as :: [Mokhotlong.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.private.md) 
+
+### #is_/same_as :: [Mokhotlong.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.personal.md) 
+
+### #is_/same_as :: [Mokhotlong.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mokhotlong.secret.md)
 

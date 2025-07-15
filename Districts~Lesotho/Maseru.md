@@ -40,11 +40,18 @@ markerFolder: ./Maseru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Maseru|Maseru]] 
-- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Maseru.public|Maseru.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Maseru.internal|Maseru.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Maseru.protect|Maseru.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Maseru.private|Maseru.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Maseru.personal|Maseru.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Maseru.secret|Maseru.secret]] 
+
+### #is_/same_as :: [Maseru](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.md) 
+
+### #is_/same_as :: [Maseru.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.public.md) 
+
+### #is_/same_as :: [Maseru.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.internal.md) 
+
+### #is_/same_as :: [Maseru.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.protect.md) 
+
+### #is_/same_as :: [Maseru.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.private.md) 
+
+### #is_/same_as :: [Maseru.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.personal.md) 
+
+### #is_/same_as :: [Maseru.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru.secret.md)
 

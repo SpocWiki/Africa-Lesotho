@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-29.46667,27.93333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/City/Maseru|Maseru]] 
-- [[../../../../../../_public/geo/Continent/Africa/Lesotho/City/Maseru.public|Maseru.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/City/Maseru.internal|Maseru.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/City/Maseru.protect|Maseru.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Lesotho/City/Maseru.private|Maseru.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/City/Maseru.personal|Maseru.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/City/Maseru.secret|Maseru.secret]] 
+
+### #is_/same_as :: [Maseru](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.md) 
+
+### #is_/same_as :: [Maseru.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.public.md) 
+
+### #is_/same_as :: [Maseru.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.internal.md) 
+
+### #is_/same_as :: [Maseru.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.protect.md) 
+
+### #is_/same_as :: [Maseru.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.private.md) 
+
+### #is_/same_as :: [Maseru.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.personal.md) 
+
+### #is_/same_as :: [Maseru.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Maseru/City/Maseru.secret.md)
+

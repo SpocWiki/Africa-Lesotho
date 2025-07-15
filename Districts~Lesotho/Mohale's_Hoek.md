@@ -40,11 +40,18 @@ markerFolder: ./Mohale's_Hoek/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek|Mohale's_Hoek]] 
-- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.public|Mohale's_Hoek.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.internal|Mohale's_Hoek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.protect|Mohale's_Hoek.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.private|Mohale's_Hoek.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.personal|Mohale's_Hoek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Mohale's_Hoek.secret|Mohale's_Hoek.secret]] 
+
+### #is_/same_as :: [Mohale's_Hoek](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.md) 
+
+### #is_/same_as :: [Mohale's_Hoek.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.public.md) 
+
+### #is_/same_as :: [Mohale's_Hoek.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.internal.md) 
+
+### #is_/same_as :: [Mohale's_Hoek.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.protect.md) 
+
+### #is_/same_as :: [Mohale's_Hoek.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.private.md) 
+
+### #is_/same_as :: [Mohale's_Hoek.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.personal.md) 
+
+### #is_/same_as :: [Mohale's_Hoek.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mohale's_Hoek.secret.md)
 

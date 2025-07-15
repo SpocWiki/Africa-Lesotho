@@ -40,11 +40,18 @@ markerFolder: ./Quthing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Lesotho/Counties/Quthing|Quthing]] 
-- [[../../../../../../_public/geo/Continent/Africa/Lesotho/Counties/Quthing.public|Quthing.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Lesotho/Counties/Quthing.internal|Quthing.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Lesotho/Counties/Quthing.protect|Quthing.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Lesotho/Counties/Quthing.private|Quthing.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Lesotho/Counties/Quthing.personal|Quthing.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Lesotho/Counties/Quthing.secret|Quthing.secret]] 
+
+### #is_/same_as :: [Quthing](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.md) 
+
+### #is_/same_as :: [Quthing.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.public.md) 
+
+### #is_/same_as :: [Quthing.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.internal.md) 
+
+### #is_/same_as :: [Quthing.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.protect.md) 
+
+### #is_/same_as :: [Quthing.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.private.md) 
+
+### #is_/same_as :: [Quthing.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.personal.md) 
+
+### #is_/same_as :: [Quthing.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Quthing.secret.md)
 
