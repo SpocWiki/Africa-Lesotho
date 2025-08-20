@@ -1,37 +1,38 @@
 ---
 location:
-- -29.4667
-- 27.9333
+  - -29.4667
+  - 27.9333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26951
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Lesotho
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Lesotho
-- ليسوتو
-- 莱索托
-- Лесото
-- the Kingdom of Lesotho
-- el Reino de Lesotho
+  - Lesotho
+  - ليسوتو
+  - 莱索托
+  - Лесото
+  - the Kingdom of Lesotho
+  - el Reino de Lesotho
 Languages:
-- en-LS
-- st
-- zu
-- xh
+  - en-LS
+  - st
+  - zu
+  - xh
 ---
 
 
