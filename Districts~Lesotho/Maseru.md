@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q3909
 location:
   - -29.6
   - 27.8
@@ -26,16 +27,33 @@ publishDate:
 expiryDate:
 ---
 
-# Maseru
+# [[Maseru]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Maseru,3909|WD~Maseru,3909]] 
+
+## #has_/map 
 
 ```leaflet
 id: Maseru
 zoomFeatures: true 
 minZoom: 2 
+defaultZoom: 8
 maxZoom: 18
+coordinates: [[Maseru]] 
+markerFile: [[Maseru]] 
 geojsonFolder: ./Maseru/
 markerFolder: ./Maseru/
 ```
+
+## #has_/text_of_/abstract 
+
+> **Maseru** is the capital and largest city of Lesotho. It is also the capital of the Maseru District. 
+> Located on the Caledon River, Maseru lies directly on the Lesotho–South Africa border. 
+> Maseru had a population of 330,760 in the 2016 census. 
+> 
+> The city was established as a police camp and assigned as the capital after the country became a British protectorate in 1869. When the country achieved independence in 1966, Maseru retained its status as capital. The name of the city is a Sesotho word meaning "red sandstones".
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Maseru)  
 
 
 ## Confidential Links & Embeds: 
