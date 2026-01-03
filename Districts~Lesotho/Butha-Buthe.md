@@ -40,17 +40,17 @@ markerFolder: ./Butha-Buthe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Butha-Buthe](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe|Butha-Buthe]] 
 
-### #is_/same_as :: [Butha-Buthe.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.public|Butha-Buthe.public]] 
 
-### #is_/same_as :: [Butha-Buthe.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.internal|Butha-Buthe.internal]] 
 
-### #is_/same_as :: [Butha-Buthe.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.protect|Butha-Buthe.protect]] 
 
-### #is_/same_as :: [Butha-Buthe.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.private|Butha-Buthe.private]] 
 
-### #is_/same_as :: [Butha-Buthe.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.personal|Butha-Buthe.personal]] 
 
-### #is_/same_as :: [Butha-Buthe.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Butha-Buthe.secret|Butha-Buthe.secret]] 
 

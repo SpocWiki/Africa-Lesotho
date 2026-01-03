@@ -40,17 +40,17 @@ markerFolder: ./Qacha's_Nek/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qacha's_Nek](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek|Qacha's_Nek]] 
 
-### #is_/same_as :: [Qacha's_Nek.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.public|Qacha's_Nek.public]] 
 
-### #is_/same_as :: [Qacha's_Nek.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.internal|Qacha's_Nek.internal]] 
 
-### #is_/same_as :: [Qacha's_Nek.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.protect|Qacha's_Nek.protect]] 
 
-### #is_/same_as :: [Qacha's_Nek.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.private|Qacha's_Nek.private]] 
 
-### #is_/same_as :: [Qacha's_Nek.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.personal|Qacha's_Nek.personal]] 
 
-### #is_/same_as :: [Qacha's_Nek.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Qacha's_Nek.secret|Qacha's_Nek.secret]] 
 

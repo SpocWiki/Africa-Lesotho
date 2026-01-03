@@ -40,17 +40,17 @@ markerFolder: ./Mafeteng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mafeteng](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng|Mafeteng]] 
 
-### #is_/same_as :: [Mafeteng.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.public|Mafeteng.public]] 
 
-### #is_/same_as :: [Mafeteng.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.internal|Mafeteng.internal]] 
 
-### #is_/same_as :: [Mafeteng.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.protect|Mafeteng.protect]] 
 
-### #is_/same_as :: [Mafeteng.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.private|Mafeteng.private]] 
 
-### #is_/same_as :: [Mafeteng.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.personal|Mafeteng.personal]] 
 
-### #is_/same_as :: [Mafeteng.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Mafeteng.secret|Mafeteng.secret]] 
 

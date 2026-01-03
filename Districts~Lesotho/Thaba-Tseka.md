@@ -40,17 +40,17 @@ markerFolder: ./Thaba-Tseka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thaba-Tseka](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka|Thaba-Tseka]] 
 
-### #is_/same_as :: [Thaba-Tseka.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.public|Thaba-Tseka.public]] 
 
-### #is_/same_as :: [Thaba-Tseka.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.internal|Thaba-Tseka.internal]] 
 
-### #is_/same_as :: [Thaba-Tseka.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.protect|Thaba-Tseka.protect]] 
 
-### #is_/same_as :: [Thaba-Tseka.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.private|Thaba-Tseka.private]] 
 
-### #is_/same_as :: [Thaba-Tseka.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.personal|Thaba-Tseka.personal]] 
 
-### #is_/same_as :: [Thaba-Tseka.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Thaba-Tseka.secret|Thaba-Tseka.secret]] 
 

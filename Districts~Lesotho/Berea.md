@@ -40,17 +40,17 @@ markerFolder: ./Berea/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berea](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea|Berea]] 
 
-### #is_/same_as :: [Berea.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.public|Berea.public]] 
 
-### #is_/same_as :: [Berea.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.internal|Berea.internal]] 
 
-### #is_/same_as :: [Berea.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.protect|Berea.protect]] 
 
-### #is_/same_as :: [Berea.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.private|Berea.private]] 
 
-### #is_/same_as :: [Berea.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.personal|Berea.personal]] 
 
-### #is_/same_as :: [Berea.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Berea.secret|Berea.secret]] 
 

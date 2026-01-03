@@ -40,17 +40,17 @@ markerFolder: ./Leribe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leribe](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe|Leribe]] 
 
-### #is_/same_as :: [Leribe.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.public|Leribe.public]] 
 
-### #is_/same_as :: [Leribe.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.internal|Leribe.internal]] 
 
-### #is_/same_as :: [Leribe.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.protect|Leribe.protect]] 
 
-### #is_/same_as :: [Leribe.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.private|Leribe.private]] 
 
-### #is_/same_as :: [Leribe.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.personal|Leribe.personal]] 
 
-### #is_/same_as :: [Leribe.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Lesotho/Districts~Lesotho/Leribe.secret|Leribe.secret]] 
 
