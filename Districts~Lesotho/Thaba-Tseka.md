@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Thaba-Tseka/
 markerFolder: ./Thaba-Tseka/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Qacha's_Nek/
 markerFolder: ./Qacha's_Nek/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

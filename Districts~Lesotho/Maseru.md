@@ -53,7 +53,7 @@ markerFolder: ./Maseru/
 > 
 > The city was established as a police camp and assigned as the capital after the country became a British protectorate in 1869. When the country achieved independence in 1966, Maseru retained its status as capital. The name of the city is a Sesotho word meaning "red sandstones".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maseru)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Maseru) 
 
 
 ## Confidential Links & Embeds: 
